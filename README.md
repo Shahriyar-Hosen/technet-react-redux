@@ -1,1 +1,1 @@
-<h1 align="center" >Technet react redux</h1>
+<h1 align="center" >Technet React Redux</h1>
